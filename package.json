@@ -1,0 +1,27 @@
+{
+  "name": "ucfbootcamphangman",
+  "version": "1.0.0",
+  "description": "Hangman game for the command prompt",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tthompson942010/Week11-Hangman.git"
+  },
+  "keywords": [
+    "hang",
+    "me"
+  ],
+  "author": "Trevor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tthompson942010/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/tthompson942010/Week11-Hangman#readme"
+}
